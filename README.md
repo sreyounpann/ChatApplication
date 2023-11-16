@@ -73,8 +73,8 @@ To get started with the ChatApplication, follow these steps:
 4. Build and run the client application on one or more machines.
 
 ## Video Demo
-[![ChatApplication Demo](https://github.com/sreyounpann/ChatApplication/raw/main/assets/thumbnail.png)](https://github.com/sreyounpann/ChatApplication/raw/main/assets/demo.mp4)
 
+[ChatApplication Demo](https://github.com/sreyounpann/ChatApplication/raw/main/assets/demo.mp4)
 Demo with 4 clients can connected to server and can chat with each other. 
 
 ## Contributing
