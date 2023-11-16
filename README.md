@@ -74,7 +74,9 @@ To get started with the ChatApplication, follow these steps:
 
 ## Video Demo
 
-[ChatApplication Demo]https://github.com/username/repository/raw/main/path/to/chatApp_2.mp4
+## Video Demo
+
+[ChatApplication Demo](https://github.com/username/repository/raw/main/path/to/chatApp.mp4)
 
 Demo with 4 clients can connected to server and can chat with each other. 
 
