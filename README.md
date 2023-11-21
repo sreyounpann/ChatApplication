@@ -16,6 +16,7 @@ ChatApplication is a simple networked chat application built using C#, WPF, and 
 
 - [Getting Started](#getting-started)
 - [Video Demo](#video-demo)
+- [Screenshot](#screenshot)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -74,9 +75,19 @@ To get started with the ChatApplication, follow these steps:
 
 ## Video Demo
 https://github.com/sreyounpann/ChatApplication/assets/83297826/70b69879-c5d6-4239-b02d-33c6093b2deb
+
 Demo with 4 clients can connected to server and can chat with each other. 
+## Screenshot
+![Screenshot 2023-07-22 144108](https://github.com/sreyounpann/ChatApplication/assets/83297826/65118158-f8d9-4a95-b025-a9c4669c4a5d)
+
+![Screenshot 2023-07-22 154207](https://github.com/sreyounpann/ChatApplication/assets/83297826/9f2f49c4-3a45-4f3b-a8bf-c66231bf50ee)
+
+![Screenshot 2023-07-22 184513](https://github.com/sreyounpann/ChatApplication/assets/83297826/89fa4acf-e4ae-4f43-b2df-abc08ed8c460)
+
+
 
 ## Contributing
+ng
 
 If you'd like to contribute to ChatApplication, please follow these guidelines:
 
